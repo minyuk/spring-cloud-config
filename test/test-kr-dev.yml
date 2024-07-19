@@ -1,0 +1,4 @@
+com:
+  test:
+    profile: dev
+    region: kr
