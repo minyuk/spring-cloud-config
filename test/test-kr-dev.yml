@@ -1,4 +1,4 @@
 com:
   test:
-    profile: dev
+    profile: real
     region: kr3
