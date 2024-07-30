@@ -1,7 +1,7 @@
 com:
   test:
     profile: dev
-    region: jp5
+    region: kr5
 
 
 spring:
