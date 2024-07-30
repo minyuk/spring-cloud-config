@@ -3,6 +3,7 @@ com:
     profile: dev
     region: kr7
 
+spring:
   datasource:
     url: jdbc:mysql://localhost:3306/study_db?rewriteBatchedStatements=true&characterEncoding=UTF-8&serverTimezone=Asia/Seoul
     username: root
